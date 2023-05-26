@@ -3,11 +3,11 @@ The objective of this project is to create a machine learning model to predict w
 
 ## Parts
 1. Exploratory Data Analysis (EDA.ipynb)
-2. Build Model (build-model.ipynb) [**work-in-progress]**
+2. Build Model (build-model.ipynb)
 - Import
 - Encode
 - Split
 - Resample
-- Build Model
+- Build Model **[work-in-progress]** (I am stuck here)
 3. Communicate Results
 - Feature Importances and Ethical Considerations
