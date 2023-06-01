@@ -8,6 +8,6 @@ The objective of this project is to create a machine learning model to predict w
 - Encode
 - Split
 - Resample
-- Build Model **[work-in-progress (I am stuck here)]**
+- Build Model **[work-in-progress]**
 3. Communicate Results
 - Feature Importances and Ethical Considerations
