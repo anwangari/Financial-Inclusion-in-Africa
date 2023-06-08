@@ -33,11 +33,6 @@ The notebook `build-model.ipynb` focuses on building a machine learning model to
 - Evaluating the model's performance
 - Communicating the results with a confusion matrix and feature importances
 
-## Getting Started
+## Next Step [work in progress]
 
-To get started with this project, follow the instructions below:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/Financial-Inclusion-in-Africa.git
+I am building a new model that will predict bank account access with precision
