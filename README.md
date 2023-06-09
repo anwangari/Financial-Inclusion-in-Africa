@@ -30,5 +30,5 @@ The notebook `build-model.ipynb` focuses on building a machine learning model to
 - Resampling the imbalanced data using oversampling
 - Building a baseline model
 - Iterating on the model using a pipeline and hyperparameter tuning
-- Evaluating the model's performance {precision / recall [work in progress]}
+- Evaluating the model's performance **{precision / recall [work in progress]}**
 - Communicating the results with a confusion matrix and feature importances
